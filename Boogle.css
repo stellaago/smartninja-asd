@@ -1,0 +1,159 @@
+body {
+    background: #fff;
+    font-family: arial,sans-serif;
+    color: #222;
+    font-size: small;
+    height: 100%;
+    margin: 0;
+    display: block;
+}
+
+.viewport {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    min-height: 100%;
+    width: 100%;
+    min-width: 1139px;
+    margin: 0 auto;
+    min-width: 980px;
+    display: block;
+}
+
+.header {
+    height: 30px;
+    width: auto;
+    padding-right: 40px;
+}
+
+.a {
+    height: 30px;
+    width: auto;
+    display: flex;
+    justify-content: flex-end;
+    align-items: baseline;
+}
+
+.gmail {
+    padding: 15px;
+}
+
+.gmaillink {
+    text-decoration: none;
+    color: black;
+}
+
+.gapps {
+    padding: 15px;
+}
+
+.images {
+    padding: 15px;
+}
+
+.imageslink {
+    text-decoration: none;
+    color: black;
+}
+
+.signin {
+    display: flex;
+    padding: 5px;
+    color: #fff;
+    background: #4387fd;
+    font-weight: bold;
+    border-radius: 2px;
+}
+
+.signinlink {
+    text-decoration: none;
+    display: flex;
+    padding: 5px;
+    color: #fff;
+    background: #4387fd;
+    font-weight: bold;
+    border-radius: 2px;
+}
+
+.c {
+    display: flex;
+    padding-top: 109px;
+    padding-bottom: 30px;
+    justify-content: center;
+}
+
+.d {
+    display: flex;
+    height: 44px;
+    width: auto;
+    justify-content: center;
+}
+
+.searchfield {
+    display: flex;
+    height: 44px;
+    width: 584px;
+    border-radius: 24px;
+    border: 1px solid #dfe1e5;
+    justify-content: center;
+}
+
+.searchfieldinput {
+    height: 44px;
+    width: 447px;
+    padding: 0;
+    border: 0;
+    margin: 0;
+    font: 16px arial, sans-serif;
+    cursor: text;
+}
+.e {
+    display: flex;
+    padding-top: 15px;
+    height: 58px;
+    width: auto;
+    justify-content: center;
+}
+
+.e1 {
+    width: 571px;
+    height: 58px;
+    justify-content: center;
+}
+
+.googlesearch {
+    display: flex;
+    justify-content: center;
+}
+
+.searchbutton {
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #5F6368;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+.luckybutton {
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #5F6368;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}

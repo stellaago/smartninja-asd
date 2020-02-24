@@ -1,0 +1,36 @@
+
+div {
+ display: inline-block;
+
+}
+
+#navigation {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: red;
+    height: 50px;
+    width: 100vw;
+}
+
+.main {
+    background-color: blue;
+    width: 600px;
+    margin: 50px auto 0;
+    height: 2650px;
+}
+
+.relative1 {
+    background-color: green;
+   position: relative;
+   width: 300px;
+    height: 50px;
+}
+.relative2 {
+    position: relative;
+   /* top: -20px;
+    left: 20px; */
+    background-color: lightblue;
+    width: 200px;
+    height: 50px;
+}
